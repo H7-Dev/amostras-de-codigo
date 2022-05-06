@@ -1,4 +1,7 @@
 
+![image](https://user-images.githubusercontent.com/93455937/167199212-4c2a58b3-099f-4eb6-9dcc-4675e3e5a969.png)
+
+
 # 📝 amostra de códigos
 
 [Métodos Jquery]() |
